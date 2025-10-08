@@ -33,6 +33,14 @@ Each business receives a **JavaScript embed snippet** to integrate the chatbot d
 ---
 
 ## 🏗️ Project Structure
+```
+ai-chatbot-builder/
+├── frontend/ # React + Vite + Tailwind (Dashboard + Chat UI)
+├── backend/ # FastAPI backend (API + Model endpoints)
+├── embed-widget/ # JS snippet for embedding chatbot on client sites
+└── docs/ # Documentation
+
+```
 
 ![Chat Dashboard](screenshots/chatboat_dash.png)
 
