@@ -34,7 +34,7 @@ Each business receives a **JavaScript embed snippet** to integrate the chatbot d
 
 ## 🏗️ Project Structure
 
-
+![Chat Dashboard](screenshots/chatboat_dash.png)
 
 ---
 
